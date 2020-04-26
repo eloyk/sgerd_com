@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-microservice",
+  "version": "1.0.0",
+  "description": "microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fedepujol",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "pg": "^7.18.2",
+    "request": "^2.88.2",
+    "tedious": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/pg": "^7.14.1"
+  }
+}
