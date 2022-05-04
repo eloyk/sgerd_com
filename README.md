@@ -29,4 +29,4 @@ CapacidadLimAula
 /asigCursoSeccion/:id Put para actualizar la capacidad del aula pasando por la Url el id y por el body CapacidadAula
 
 /asigCursoSeccion/:id Delete para eliminar la asignacion de un curso solo pasando el id por la url
-```
+```# mono-scoes-backend
